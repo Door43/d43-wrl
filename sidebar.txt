@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wrl:home|Door43 (wrl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wrl|d43-wrl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wrl/archive/master.zip|d43-wrl.zip]]
+
+**Recent Changes**
+{{changes>ns = wrl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wrl|Ethnologue data]]
+
